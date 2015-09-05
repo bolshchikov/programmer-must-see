@@ -10,3 +10,6 @@
 
 ## 2012
 1. [Rich Hickey: **Simplicity Matters**](https://www.youtube.com/watch?v=rI8tNMsozo0) [36:53]
+
+## 2007
+1. [Linus Torvalds: **Git**](https://www.youtube.com/watch?v=4XpnKHJAok8) [1:10:14]
