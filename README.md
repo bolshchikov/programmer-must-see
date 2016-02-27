@@ -3,6 +3,7 @@
 1. [Martin Fowler: **Making Architecture Matter**](https://www.youtube.com/watch?v=DngAZyWMGR0) [14:03]
 1. [Peter Alvaro: **I See What You Mean**](https://www.youtube.com/watch?v=R2Aa4PivG0g) [52:28]
 1. [Aimee Knight: **Getting Comfortable Being Uncomfortable**](https://www.youtube.com/watch?v=B22o_yeDE_s) [22:18]
+1. [David Thomas: **Agile is Dead**](https://www.youtube.com/watch?v=a-BOSpxYJ9M) [40:38]
 
 ## 2014
 1. [Martin Fowler: **Not Just Code Monkeys**](https://www.youtube.com/watch?v=4E3xfR6IBII) [21:28]
