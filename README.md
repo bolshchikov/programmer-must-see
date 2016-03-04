@@ -7,6 +7,7 @@
 
 ## 2014
 1. [Martin Fowler: **Not Just Code Monkeys**](https://www.youtube.com/watch?v=4E3xfR6IBII) [21:28]
+1. [Simon Brown: **Software Architecture vs. Code**](https://www.youtube.com/watch?v=GAFZcYlO5S0) [45:32]
 
 ## 2013
 1. [Ben Orenstein: **How to Talk to Developers**](https://www.youtube.com/watch?v=l9JXH7JPjR4) [48:02]
