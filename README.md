@@ -15,6 +15,7 @@
 
 ## 2013
 1. [Ben Orenstein: **How to Talk to Developers**](https://www.youtube.com/watch?v=l9JXH7JPjR4) [48:02]
+1. [Dan North: **Patterns of Effective Teams**](https://vimeo.com/68226771) [54:35]
 
 ## 2012
 1. [Rich Hickey: **Simplicity Matters**](https://www.youtube.com/watch?v=rI8tNMsozo0) [36:53]
