@@ -1,6 +1,7 @@
 ## 2016
 1. [Dom Davis: **Fake it Until you Make it**](http://www.infoq.com/presentations/impostor-syndrome) [35:34]
 1. [Dan North: **Software, Faster**](https://www.youtube.com/watch?v=USc-yLHXNUg) [54:19]
+1. [Netta Bondy: **How to Teach New Programmers so That They Learn?**](https://www.youtube.com/watch?v=_7vdburegkw) [30:04]
 
 ## 2015
 1. [Robert C. Martin: **Agility and Architecture**](https://www.youtube.com/watch?v=0oGpWmS0aYQ) [41:04]
