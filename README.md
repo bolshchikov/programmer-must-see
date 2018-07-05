@@ -1,3 +1,5 @@
+## 2017 
+1. [Simon Eskildsen: **Shopify's Architecture to handle 80K RPS Celebrity Sales**](https://www.youtube.com/watch?v=N8NWDHgWA28) [40:17]
 ## 2016
 1. [Dom Davis: **Fake it Until you Make it**](http://www.infoq.com/presentations/impostor-syndrome) [35:34]
 1. [Dan North: **Software, Faster**](https://www.youtube.com/watch?v=USc-yLHXNUg) [54:19]
