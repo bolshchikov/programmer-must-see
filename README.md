@@ -25,6 +25,7 @@
 ## 2012
 1. [Rich Hickey: **Simplicity Matters**](https://www.youtube.com/watch?v=rI8tNMsozo0) [36:53]
 1. [Scott Hanselman: **It's not what you read, it's what you ignore**](https://vimeo.com/39020426) [41:52]
+1. [Coda Hale: **The Programming Ape**](https://www.youtube.com/watch?v=e_6gkfTomUQ) [41:36]
 
 ## 2010
 1. [John Seddon: **Re-thinking IT**](https://vimeo.com/19122939) [41:40]
